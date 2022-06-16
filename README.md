@@ -10,10 +10,10 @@ I'm a 24 years old developer
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is paraglider
 
-<div align="center">
-  <a href="https://github.com/MateusViniciusRs">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mateusviniciusrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
+<a href="https://github.com/mateusviniciusrs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusviniciusrs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
+<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusviniciusrs&theme=dracula&hide_border=false&&layout=compact"/>
+</a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,8 +24,10 @@ I'm a 24 years old developer
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="mateus-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/aws.png"  height="20" width="30" alt="Logo aws"/>
+  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="mateus-MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </div>
   
@@ -39,3 +41,14 @@ I'm a 24 years old developer
   
  
 </div>
+
+
+
+
+
+
+
+
+
+
+
