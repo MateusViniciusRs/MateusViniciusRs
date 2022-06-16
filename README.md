@@ -8,7 +8,6 @@ I'm a 24 years old developer
 * 🌍  I'm based in Betim, Minas Gerais, Brazil
 * ✉️  You can contact me at [mateusviniciusnunu@gmail.com]
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is paraglider
 
 <a href="https://github.com/mateusviniciusrs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusviniciusrs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><br>
@@ -41,6 +40,7 @@ I'm a 24 years old developer
   
  
 </div>
+
 
 
 
