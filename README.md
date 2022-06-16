@@ -25,6 +25,7 @@ I'm a 24 years old developer
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="mateus-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img src="https://github.com/adryanefernandes/adryanefernandes/blob/main/assets/aws.png"  height="20" width="30" alt="Logo aws"/>
   <img align="center" alt="mateus-MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </div>
   
@@ -38,7 +39,3 @@ I'm a 24 years old developer
   
  
 </div>
-
-
-
-
