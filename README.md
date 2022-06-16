@@ -1,15 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ## Olá eu sou o Mateus Vinicius, apaixonado  pela programação é tecnologia!
 <div align="center">
   <a href="https://github.com/MateusViniciusRs">
@@ -22,8 +13,9 @@
   <img align="center" alt="mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
   
   ##
@@ -36,6 +28,7 @@
   
  
 </div>
+
 
 
 
