@@ -1,7 +1,16 @@
 
 
+Hi 👋 My name is Mateus vinicius
+==========================
 
-## Olá eu sou o Mateus Vinicius, apaixonado  pela programação é tecnologia!
+Full Stack Software Developer
+-----------------------------
+I'm a 24 years old developer 
+* 🌍  I'm based in Betim, Minas Gerais, Brazil
+* ✉️  You can contact me at [mateusviniciusnunu@gmail.com]
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡  I love sports and my favorite is paraglider
+
 <div align="center">
   <a href="https://github.com/MateusViniciusRs">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mateusviniciusrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,17 +37,6 @@
   
  
 </div>
- 
- 
-  
- 
-</div>
-
-
-
-
-
-
 
 
 
