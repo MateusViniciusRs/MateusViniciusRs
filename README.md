@@ -1,5 +1,6 @@
 
-Hi 👋 My name is Mateus vinicius
+
+Hi 👋 My name is Mateus Vinicius
 ==========================
 
 Full Stack Software Developer
@@ -36,8 +37,6 @@ I'm a 24 years old developer
   
  
 </div>
-
-
 
 
 
